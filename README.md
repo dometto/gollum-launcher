@@ -1,6 +1,6 @@
 Minimal working example of a GUI Launcher for [Gollum](https://github.com/gollum/gollum) that can be used to generate a portable Java jar, using [Shoes 4](https://github.com/shoes/shoes4).
 
-To run:
+To run (using JRuby):
 
 * `bundle install`
 * `bundle exec jruby -J-XstartOnFirstThread lib/gollum_launcher.rb`
